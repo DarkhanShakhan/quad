@@ -1,1 +1,1 @@
-"# quad" 
+Code for the "quad" quest
